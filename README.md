@@ -3,8 +3,8 @@ Marmara University CSE 3063 Java Project Group 14
 
 Group Members
 Taha Enes Uzun - o150119600
-Burak Fidan - 0150119596
-Furkan Akman
+Burak Fidan - o150119596
+Furkan Akman - 150119605
 Hayrullah Çağıl
 Duygu Yasinoğlu
 Halil Demir
