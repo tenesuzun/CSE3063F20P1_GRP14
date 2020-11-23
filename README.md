@@ -6,7 +6,7 @@ Taha Enes Uzun - o150119600
 Burak Fidan - o150119596
 Furkan Akman - 150119605
 Hayrullah Çağıl
-Duygu Yasinoğlu
+Duygu Yasinoğlu -150112034
 Halil Demir
 Hüseyin Demir
 Eyüp Özkul
