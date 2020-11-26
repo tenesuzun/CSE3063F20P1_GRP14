@@ -5,7 +5,7 @@ Group Members
 Taha Enes Uzun - o150119600
 Burak Fidan - o150119596
 Furkan Akman - 150119605
-Hayrullah Çağıl
+Hayrullah Çağıl - o150119593
 Duygu Yasinoğlu -150112034
 Halil Demir
 Hüseyin Demir
