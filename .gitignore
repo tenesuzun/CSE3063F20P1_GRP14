@@ -1,0 +1,4 @@
+# example input and output files
+*.json
+.idea
+*.iml
