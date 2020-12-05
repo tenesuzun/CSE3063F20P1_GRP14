@@ -8,7 +8,7 @@ import java.util.Random;
 public class OutputGenerator extends BaseIO<OutputModel> {
 
     public OutputGenerator() {
-        ioLocation = "outputs\\output";
+        ioLocation = "iteration1\\outputs\\output";
     }
 
     public void createOutputForUser(InputModel inputModel, List<AssignementModel> assignements, List<UserModel> userModels){

@@ -9,7 +9,7 @@ import java.io.FileReader;
 public class InputReceiver extends BaseIO<InputModel> {
 
     public InputReceiver() {
-        ioLocation = "inputs\\input";
+        ioLocation = "iteration1\\inputs\\input";
     }
 
     public void getJsonObject(String inputName){
