@@ -11,5 +11,5 @@ Hayrullah Çağıl - 150119593\
 Duygu Yasinoğlu - 150112034\
 Halil Demir - 150119820\
 Hüseyin Demir - 150119662\
-Eyüp Özkul - 15011990\
+Eyüp Özkul - 150119903\
 Ahmet Çağrı Hodoğlugil - 150118508
