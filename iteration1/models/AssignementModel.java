@@ -41,7 +41,7 @@ public class AssignementModel {
 
     @Override
     public String toString() {
-        return "AssignementModel{" +
+        return "AssignmentModel{" +
                 "id=" + id + "\n" +
                 ", labelIds=" + labelIds + "\n" +
                 ", userId=" + userId + "\n" +

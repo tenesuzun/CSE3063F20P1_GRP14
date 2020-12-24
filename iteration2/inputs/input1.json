@@ -5,8 +5,7 @@
   "class labels":
   [
     {"label id":1,"label text":"Positive"},
-    {"label id":2,"label text":"Negative"},
-    {"label id":3,"label text":"Notr"}
+    {"label id":2,"label text":"Negative"}
   ],
   "instances":
   [

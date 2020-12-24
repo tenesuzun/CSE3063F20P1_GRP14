@@ -12,9 +12,11 @@ public class OutputGenerator extends BaseIO<OutputModel> {
     }
 
     public void createOutputForUser(InputModel inputModel, List<AssignementModel> assignements, List<UserModel> userModels){
+        System.out.println("Output generator started.");
         model = new OutputModel(inputModel, assignements,userModels);
         try{
             mapper.writeValue(new File(ioLocation+(new Random().nextInt(5))+".json"), model);
+            System.out.println("Output written to location: "+ioLocation);
         }catch(Exception e){
             e.printStackTrace();
         }

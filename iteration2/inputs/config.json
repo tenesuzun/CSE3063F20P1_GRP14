@@ -1,0 +1,38 @@
+{
+    "users": [
+    {
+      "user id": 1,
+      "user name": "UserModel1",
+      "user type": "RandomBot",
+      "datasets": [1, 2],
+      "ConsistencyCheckProbability": 0.7
+    },
+    {
+      "user id": 2,
+      "user name": "UserModel2",
+      "user type": "RandomBot",
+      "datasets": [1],
+      "ConsistencyCheckProbability": 0.7
+    },
+    {
+      "user id": 3,
+      "user name": "UserModel3",
+      "user type": "RandomBot",
+      "datasets": [2],
+      "ConsistencyCheckProbability": 0.7
+    }
+  ],
+  "input paths": [
+    {
+      "path": "iteration2\\inputs\\input1.json",
+      "dataset id": 1,
+      "dataset name": "Sentiment Dataset"
+    },
+    {
+      "path": "iteration2\\inputs\\input2.json",
+      "dataset id": 2,
+      "dataset name": "Multilabel Topic Classification Dataset"
+    }
+  ],
+  "CurrentDatasetId": 1
+}

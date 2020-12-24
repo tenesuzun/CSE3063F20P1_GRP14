@@ -1,0 +1,18 @@
+{
+  "number of dataset": 2,
+  "completeness percentage": 100,
+  "total labeled instances": 20,
+  "total unique labeled instances": 10,
+  "average time spend labeling": [517,501,501,502,501,501,502,502,503,502,501,502,502,501,502,502,502,502,502,501],
+  "standart deviation": 3.3166247903554,
+  "total label assignments": 35,
+  "unique total label assignments": 2,
+  "unique total users": 2,
+  "most frequent label": 1,
+  "most frequent label percentage": 54,
+  "label assignement distribution":
+  [
+    {"label percentage":54,"label name":"Positive"},
+    {"label percentage":45,"label name":"Negative"}
+  ]
+}
