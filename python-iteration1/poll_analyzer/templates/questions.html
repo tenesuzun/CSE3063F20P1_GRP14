@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<p>There is some text!</p>
+{% for question in questions %}
+{{ question.content }}
+{% endfor %}
+
+
+{% endblock content %}

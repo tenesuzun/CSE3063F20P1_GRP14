@@ -1,0 +1,12 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<p>There is some text!</p>
+{% for ans in answers %}
+{{ ans.given_answer }}
+<br>
+{% endfor %}
+
+{% endblock content %}

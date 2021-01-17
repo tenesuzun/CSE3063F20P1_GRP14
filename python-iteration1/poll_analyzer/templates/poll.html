@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<p>There is some text!</p>
+{% for poll in polls %}
+{{ poll.name }}
+{% endfor %}
+
+{% endblock content %}
